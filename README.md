@@ -89,19 +89,3 @@
 ## 📸 Screenshots
 ![Screenshot (30)](https://github.com/user-attachments/assets/6cfd2cfe-12ca-4e6f-8473-2bab97a3c071)
 ![Screenshot (31)](https://github.com/user-attachments/assets/7d777b32-8165-4d39-9b0b-f22e23e72c76)
-
-
----
-
-## 📦 Releases & Distribution
-### To create a GitHub Release:
-
-1. Go to the "Releases" tab on your GitHub repository.
-
-2. Click "Draft a new release".
-
-3. Add a tag like v1.0.0 and describe the release.
-
-4. Optionally upload a .zip file containing the project.
-
-⚠️ No need for GitHub Packages unless you plan to publish this as a Python module.

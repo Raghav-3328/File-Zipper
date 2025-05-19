@@ -105,17 +105,3 @@
 4. Optionally upload a .zip file containing the project.
 
 ⚠️ No need for GitHub Packages unless you plan to publish this as a Python module.
-
----
-
-## 📄 License
-This project uses fonts under the Demo license:
-
-- Death Star Font by FontSpace
-
-All other code is released under the MIT License — feel free to use and modify.
-
----
-
-## 🙌 Credits
-Developed as part of a project to explore lossless file compression using Huffman encoding with a modern web UI.

@@ -68,25 +68,20 @@
 ## 🖥️ Running Locally
 
 ### 1. Clone the Repository
-    ```bash
     git clone https://github.com/yourusername/zipman.git
     cd zipman
   
 ### 2.(Optional) Create a Virtual Environment
-    ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ### 3. Install Required Packages
-    ```bash
     pip install Flask
 
 ### 4. Run the Flask App
-    ```bash
     python app.py
 
 #### Then, open your browser and visit:
-    ```bash
     http://127.0.0.1:5000
 
 ---
